@@ -1,4 +1,4 @@
-# 🧑‍💼 SyntecxHub User Management System
+# 🧑‍💼User Management System
 
 A professional, full-stack User Management System built with **Java 17**, **Spring Boot 3**, **MongoDB Atlas**, and a modern **SaaS-style Vanilla Frontend**.<br> This project demonstrates clean layered architecture, secure authentication, and RESTful API best practices.
 
